@@ -1,7 +1,3 @@
-# MIT 6.828
-
-课程主页：https://pdos.csail.mit.edu/6.828/2018/index.html
-
 ## Lab 1
 
 > “x86 Athena machine” 是指 `uname -a` 命令结果中包含 “i386 GNU/Linux” 或 “i686 GNU/Linux” 或 “x86_64 GNU/Linux” 的系统。
